@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=daorren&&show_icons=true&theme=jolly" />
+
 ### Hi there 👋
 
 <!--
